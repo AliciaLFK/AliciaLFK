@@ -1,6 +1,6 @@
 - 👋 Salut, c'est @AliciaLFK
 - 👀 J'aime boire du Saké (c'est de l'alcool)
-- 🌱 J'essaie d'apprendre Pyton. Git c'est dûr
+- 🌱 J'essaie d'apprendre Python. Git c'est dûr
 - 💞️ Projet Data science à donf
 - 📫 Mail perso : alicia.lemairefroehlich@gmail.com
 
