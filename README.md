@@ -1,5 +1,5 @@
 - 🙋‍♀️ Salut, c'est @AliciaLFK
-- 🍶 J'aime boire du Saké (c'est de l'alcool)
+- 🍶 J'aime boire du Saké
 - 🐍 Langage de programmation : **Python** pour machine learning...
 - 💞️ Projet Data science à donf
 - 📫 Email EPF : alicia.lemaire-froehlich@epfedu.fr
